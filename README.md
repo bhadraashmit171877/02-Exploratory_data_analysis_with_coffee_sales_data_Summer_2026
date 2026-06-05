@@ -6,9 +6,9 @@ Project Title: Exploratory data analysis with Coffee sales data and MNIST data c
 
 
 
-ASHMIT BHADRA
-B-Tech/ECE
-Institute of Engineering & Management, Kolkata
+Project completed by- ASHMIT BHADRA,
+Course/Branch- B-Tech/ECE,
+College Name- Institute of Engineering & Management, Kolkata.
 
 
 
